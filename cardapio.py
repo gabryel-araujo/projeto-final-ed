@@ -1,0 +1,10 @@
+cardapio = {"À moda da casa": 38.00,
+"Calabresa": 38.00,
+"Frango com catupiry": 38.00,
+"Pepperoni": 38.00,
+"Quatro queijos": 38.00,
+"Porção batata P": 12.00,
+"Porção batata G": 20.00,
+"Refrigerante 1L": 6.00,
+"Refrigerante 2L": 10.00,
+}
